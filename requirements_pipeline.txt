@@ -1,0 +1,4 @@
+# Dépendances requises par le pipeline modulaire (model_pipeline.py / main.py)
+pandas
+scikit-learn
+joblib
